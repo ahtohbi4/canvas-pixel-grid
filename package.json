@@ -1,0 +1,25 @@
+{
+  "name": "canvas-pixel-grid",
+  "version": "0.1.0",
+  "description": "Grid of pixels to create pixelated games.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahtohbi4/canvas-pixel-grid.git"
+  },
+  "keywords": [
+    "canvas",
+    "pixel",
+    "grid",
+    "game"
+  ],
+  "author": "Alexandr Antonov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahtohbi4/canvas-pixel-grid/issues"
+  },
+  "homepage": "https://github.com/ahtohbi4/canvas-pixel-grid#readme"
+}
